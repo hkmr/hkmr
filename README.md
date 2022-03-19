@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkmr&label=Profile%20views&color=0e75b6&style=flat" alt="hkmr" /> </p>
 
@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [https://hrsh.netlify.app/](https://hrsh.netlify.app/)
 
-- 💬 Ask me about **Flutter, React-js**
+- 💬 Ask me about **Flutter, React-js, Dot-Net**
 
-- 📫 How to reach me **hrshkndra@gmail.com**
+- 📫 How to reach me **harshkmr991234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
