@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hkmr" alt="hkmr" /></a> </p>
 
-- 🔭 I’m currently working with **Flutter, Dot-Net**
+- 🔭 I’m currently working with **React, NextJs Flutter, Dot-Net**
 
 - 👯 I’m looking to collaborate on **New Startups**
 
-- 🤝 Trying to **contribute to open-source as much possible**
+- 🤝 Trying to **contribute to open-source as much as possible**
 
 - 👨‍💻 All of my projects are available at [https://hrsh.netlify.app/](https://hrsh.netlify.app/)
 
