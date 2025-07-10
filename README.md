@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
+<p align="center">
+  I specialize in building fast, modern, and user-centric web applications. With years of experience in frontend development, I focus on crafting seamless user interfaces using React.js and Next.js, and integrating robust backend services with Node.js.
+I’m passionate about creating clean, responsive, and accessible designs that don’t just look good but also perform exceptionally well. From idea to deployment, I care about every detail—performance, scalability, SEO, and maintainability.
+Whether it's building complex dashboards, landing pages, or full-scale applications, I bring both technical expertise and design intuition to deliver solutions that make an impact.
+</p>
+
+<hr/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkmr&label=Profile%20views&color=0e75b6&style=flat" alt="hkmr" /> </p>
 
@@ -11,7 +18,7 @@
 
 - 🤝 Trying to **contribute to open-source as much as possible**
 
-- 👨‍💻 All of my projects are available at [https://hrsh.netlify.app/](https://hrsh.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://harsh-kumar.tech/](https://harsh-kumar.tech/)
 
 - 💬 Ask me about **Flutter, React-js, Dot-Net**
 
